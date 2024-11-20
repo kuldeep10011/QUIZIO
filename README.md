@@ -1,8 +1,45 @@
-# React + Vite
+# Quizio - Online Quiz Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Quizio** is a free, user-friendly platform that allows users to create, take, and manage quizzes efficiently. The platform is designed to cater to educators, students, and quiz enthusiasts by providing an intuitive interface for quiz creation and participation.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
+
+1. **Quiz Creation:**  
+   - Allows users to create custom quizzes with questions and answers.  
+2. **Quiz Participation:**  
+   - Users can take quizzes and receive instant feedback.  
+3. **Results Management:**  
+   - Track and manage quiz results with detailed analytics.  
+4. **Authentication System:**  
+   - Secure login and signup functionality using Firebase authentication.  
+5. **Responsive Design:**  
+   - Optimized for both desktop and mobile devices.  
+6. **Interactive Splash Screen:**  
+   - Welcomes users with a visually engaging splash screen featuring animations.
+
+---
+
+## 🛠️ Tech Stack Used
+
+- **Frontend:** React.js, CSS  
+- **Backend:** Node.js
+- **Database:** Firebase  
+- **Design:** Figma  
+
+---
+
+## 📂 File Structure
+
+- src
+- assets: all images upload here
+- components:
+    - ForgotPassword.jsx
+    - Login.jsx
+    - SignUp.jsx
+    - SplashScreen.jsx
+- App.jsx
+- firebase.js
+- main.jsx
+  
